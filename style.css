@@ -6,7 +6,7 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;   
 }
-body {
+body {  
   height: 100vh;
   display: flex;  
   align-items: center;
@@ -52,5 +52,6 @@ body {
   color: #2f9fff;
 
 }
+
 
 
